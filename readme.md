@@ -97,7 +97,7 @@
  
   A máquina foi testada com diferentes entradas para validar seu funcionamento:
 
-  ![Teste 1 - Multiplicação](Testes.png)
+  ![Teste 1 - Multiplicação](Testes.jpg)
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  
 ##Arquivo JFLAP
