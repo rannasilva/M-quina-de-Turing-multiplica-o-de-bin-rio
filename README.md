@@ -122,4 +122,4 @@ A máquina foi testada com diferentes entradas para validar seu funcionamento:
 
 O arquivo da máquina pode ser baixado aqui:
 
-[Download da Máquina de Turing](multiplicacaobinario.jff)
+[Download da Máquina de Turing](https://github.com/rannasilva/Maquina-de-Turing-multiplicacao-de-binario/raw/main/multipicacaobinario.jff)
